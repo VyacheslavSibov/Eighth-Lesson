@@ -1,4 +1,4 @@
-package InternetShop;
+package internet.shop;
 
 /**
  * Информация о клиенте

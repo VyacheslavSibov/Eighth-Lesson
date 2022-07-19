@@ -1,4 +1,4 @@
-package Parking;
+package parking;
 
 /**
  * Тарифы на парковочные места.

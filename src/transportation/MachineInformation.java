@@ -1,4 +1,4 @@
-package Transportation;
+package transportation;
 
 /**
  * Сведение о машине

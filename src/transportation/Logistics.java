@@ -1,4 +1,4 @@
-package Transportation;
+package transportation;
 /**
  * Расстояние с точки "А" в точку "Б"
  */
